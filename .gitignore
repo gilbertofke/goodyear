@@ -1,0 +1,6 @@
+node_modules/
+tire_data.json
+tire_page.png
+scraping_error.log
+.env
+*.log

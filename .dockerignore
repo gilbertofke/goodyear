@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+tire_data.json
+tire_page.png
+scraping_error.log
+.git
+.gitignore
