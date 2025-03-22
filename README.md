@@ -103,4 +103,4 @@ MIT
 
 ## Author
 
-[Your Name]
+Developed by Gilbert Cheruiyot
